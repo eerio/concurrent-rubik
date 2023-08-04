@@ -1,6 +1,6 @@
 # Concurrent Rubik's Cube Simulator
 
-![Rubik's Cube](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Scramble.svg/1200px-Scramble.svg.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Scramble.svg/1200px-Scramble.svg.png" alt="[Image of Rubik's cube]" width=200/>
 
 Welcome to the Concurrent Rubik's Cube Simulator repository! This project is an implementation of a Rubik's Cube simulator that allows concurrent rotations of the sides of the cube using a specific and delicate thread synchronization algorithm. The goal of this simulator is to demonstrate the power and complexity of managing concurrent operations on a Rubik's Cube, providing a hands-on experience for users to understand the challenges involved in concurrent programming.
 
